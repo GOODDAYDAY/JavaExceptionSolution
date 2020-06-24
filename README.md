@@ -33,3 +33,4 @@ Goody: 865700600@qq.com
 ##### 目录
 
 * [exception/javaBasic/java.lang.NullPointer^o^空指针^o^未初始化.md](./exception/javaBasic/java.lang.NullPointer^o^空指针^o^未初始化.md)
+* [exception/spring/com.netflix.discovery.shared.transport.TransportException^o^eureka^o^login^o^无法注册^o^注册报错.md](./exception/spring/com.netflix.discovery.shared.transport.TransportException^o^eureka^o^login^o^无法注册^o^注册报错.md)
