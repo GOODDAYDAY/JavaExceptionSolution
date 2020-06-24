@@ -1,3 +1,8 @@
+### README
+
+* 请用模板进行记录，如果嫌模板麻烦，可以提交issue，我们来进行记录。也可以提出更合适的模板，我们共同进步。
+* 如果情形相差无几，可以放在一个solution里，大家查找方便，看的简单是最终目的。
+
 #### 解决方案格式模板
 
 * 文件名
@@ -17,10 +22,9 @@
     * 对应错误信息的描述
 
 * 解决方案
+  * 自由发挥
 
-### 自由发挥
-
-
+* [返回首页](https://github.com/GOODDAYDAY/JavaExceptionSolution)
 
 #### 解决方案格式样例
 
@@ -54,6 +58,8 @@
     }
 
     ```
+
+* [返回首页](https://github.com/GOODDAYDAY/JavaExceptionSolution)
 
 
 
